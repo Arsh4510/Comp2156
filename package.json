@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://<Arsh4510>.github.io/<Comp2156>",
+  "homepage": "https://Arsh4510.github.io/Comp2156",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -17,7 +17,7 @@
     "url": "git+https://github.com/Arsh4510/Comp2156.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Arshdeep",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Arsh4510/Comp2156/issues"
